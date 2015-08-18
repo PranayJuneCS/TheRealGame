@@ -17,5 +17,6 @@ public class GameRenderer {
     }
 
     public void render(int runTime) {
+
     }
 }
